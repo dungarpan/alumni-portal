@@ -1,0 +1,13 @@
+# Virtual Environment
+
+bin
+include
+lib
+pip-selfcheck.json
+.venv
+
+# Django
+
+db.sqlite3
+*/__pycache__
+*.pyc
